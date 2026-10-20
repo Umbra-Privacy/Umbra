@@ -334,7 +334,7 @@ Channel| Official destination
 
 GitHub| "Umbra-Privacy" (https://github.com/Umbra-Privacy)
 
-Reddit| "u/Umbra-P" (https://www.reddit.com/user/Umbra-P/)
+Reddit| "u/UmbraCommunity" (https://www.reddit.com/user/UmbraCommunity/)
 
 X| "@PrivacyByUmbra" (https://x.com/PrivacyByUmbra)
 
